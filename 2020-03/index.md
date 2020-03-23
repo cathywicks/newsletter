@@ -6,16 +6,16 @@
 # Look for comments as you go along
 #
 layout: november_2018
-title: November 2019 Dog Dish
-link: https://beagleboard.org/newsletter/2019-11
+title: March 2020 Dog Dish
+link: https://beagleboard.org/newsletter/2020-03
 #
 # Feature
 #
 # This is the key message at the beginning of the newsletter
 #
 feature:
- title: Giving Thanks with a New Contest
- body: </p>During this time of year we turn our thoughts to gratitude.  Here at BeagleBoard.org® we have so much to be thankful for. Our community is amazing and provides inspiration, support and encouragement to thousands of innovators across the globe.  <br /> <strong>BeagleBone® AI Free Board Contest</strong><br /> With this thankfulness in mind, we are enabling a new competition.  The world of AI presents exciting challenges and innovations that we would have never dreamed possible when BeagleBoard.org began.  We want to help our community reach those new levels. Enter your idea for a project using the new <a href="https://beagleboard.org/ai">BeagleBone® AI</a> on  <a href="https://beagleboard.org/give">this form</a>  We will choose 10 entries to ship a FREE BeagleBone® AI board to build and demonstrate their idea. Selections will be made and boards shipped by 12/15/2019.  Finish and  <a href="https://beagleboard.org/p">post your project by February 1</a> and BeagleBoard.org® will highlight your project at Embedded World 2020. <br />Email me at <a href="mailto:christi@beagleboard.org">christi@beagleboard.org</a> for questions. We look forward to receiving your project idea and request for a free BeagleBone® AI Board!<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ title: Bringing a Global Community Together
+ body: </p>Bringing a global community together through Open Source, virtually sharing ideas and growing community, is what BeagleBoard.org has been doing for over a decade.  Now more than ever the world needs to share resources and develop solutions to challenges common across the globe.  By being an educational community, our membership has access to creative solutions and lead in collaboration.  We join with other open source community initiatives such as <a href="https://www.chaibio.com/coronavirus">CHAI</a>, <a href="https://app.jogl.io/project/118">OpenCovid19Initiative</a>, and <a href="https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/">Hackaday</a> in finding solutions to help with COVID-19.  Join us in making the world a better place through open source. <br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
 #

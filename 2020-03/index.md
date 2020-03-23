@@ -35,7 +35,7 @@ events:
 #
 cape:
  title: PocketBeagle® GamePup Cape
- link: https://beagleboard.org/capes
+ link: https://www.newark.com/element14/6100310/beaglebone-ai-fan-cape/dp/50AH3704
  body: Make your own or emulate handheld games with 160x180 LCD, 10 user programmable buttons, buzzer, LiPo support and more.
  image: https://beagleboard.github.io/newsletter/static/images/Gamepup_80px.jpg
 #
@@ -46,9 +46,9 @@ cape:
 # TODO: We should probably create an Amazon Smile affiliate link for future books.
 #
 book:
- title: Effective Robotics Programming with ROS - Third Edition
- link: https://www.amazon.com/Effective-Robotics-Programming-ROS-Third/dp/1786463652
- body: <p>By Mahtani, Sanchez, Fernandez and Martinez.<br><br>Experienced or beginner, this comprehensive book will help you find your way through the ROS framework and build great robots! </p>
+ title: BeagleBone Library
+ link: https://elinux.org/Beagleboard:BeagleBoneBlack#Books
+ body: <p>There are over 30 Books using BeagleBoard.org® based SBCs. Everything from basics to robotics to advanced programming. </p>
  image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/ROSbookx80.jpg
 #
 # Articles

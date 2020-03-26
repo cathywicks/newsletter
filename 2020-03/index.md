@@ -22,12 +22,12 @@ feature:
 # Anything on the BeagleBoard.org calendar should go in here
 #
 events:
- - title: Embedded World 2020 Exhibition and Conference, Nuremberg, Germany
-   date: February 25-27, 2020 
-   link: https://www.embedded-world.de/en/ausstellerprodukte/embwld20/exhibitor-47280394/beagleboard-org-foundation
- - title: Workshop - Introduction to Embedded Linux and Heterogeneous Computing Using BeagleBone AI at Embedded World 2020, Nuremberg, Germany (Class 3.4)
-   date: Thursday, February 27, 2020 9:30AM-12:30PM
-   link: https://events.weka-fachmedien.de/embedded-world-conference/program/
+ - title: BeagleBoard.org Online Training
+   date: Subscribe now to be the first to know the dates 
+   link: https://beagleboard.org/blog/2020-03-18-online-training-update
+ - title: Embedded Linux Conference North America, Austin, TX
+   date: June 22-24, 2020
+   link: https://events.linuxfoundation.org/embedded-linux-conference-north-america/
 #
 # Cape
 #
